@@ -3,7 +3,8 @@
   "type": "croogo-plugin",
   "require": {
     "croogo/croogo": "2.1.0",
-    "cvo-technologies/croogo-webshop-plugin": "dev-master"
+    "cvo-technologies/croogo-webshop-plugin": "dev-master",
+    "cvo-technologies/webshop-orders": "dev-master"
   },
   "extra": {
     "installer-name": "Pltfrm"
